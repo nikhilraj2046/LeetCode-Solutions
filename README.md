@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
