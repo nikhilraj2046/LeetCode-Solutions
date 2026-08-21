@@ -37,5 +37,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
