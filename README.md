@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
