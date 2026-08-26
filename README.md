@@ -52,5 +52,6 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0830-positions-of-large-groups](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0830-positions-of-large-groups) |
 | [3894-traffic-signal-color](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
