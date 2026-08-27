@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0896-monotonic-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
