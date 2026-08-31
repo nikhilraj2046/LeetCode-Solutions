@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0830-positions-of-large-groups](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0830-positions-of-large-groups) |
 | [3894-traffic-signal-color](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
