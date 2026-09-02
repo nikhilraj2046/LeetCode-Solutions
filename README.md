@@ -32,6 +32,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -67,4 +69,9 @@
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
