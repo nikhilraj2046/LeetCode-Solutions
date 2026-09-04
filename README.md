@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0896-monotonic-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -14,11 +15,13 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting
 |  |
@@ -78,6 +81,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 ## Linked List
 |  |
@@ -87,4 +91,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
