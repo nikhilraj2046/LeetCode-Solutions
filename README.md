@@ -83,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0830-positions-of-large-groups](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0830-positions-of-large-groups) |
 | [3894-traffic-signal-color](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -149,6 +150,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
