@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Bracket Sequences
 |  |
 | ------- |
