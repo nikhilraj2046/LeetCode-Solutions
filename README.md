@@ -51,6 +51,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -68,6 +69,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -100,6 +102,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -109,6 +112,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
@@ -163,6 +167,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Design
 |  |
 | ------- |
