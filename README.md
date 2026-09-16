@@ -135,6 +135,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -149,6 +150,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -169,6 +171,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -179,6 +182,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Design
 |  |
