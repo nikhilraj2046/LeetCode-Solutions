@@ -8,33 +8,28 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-// ----------------------using brute force-------------------------------
 class Solution {
 public:
-  ListNode* convertarrtoll(vector<int>&arr){
-     if (arr.empty()) return nullptr; 
-    ListNode*head=new ListNode(arr[0]);
-    ListNode*mover=head;
-    for(int i=1;i<arr.size();i++){
-        ListNode*temp=new ListNode(arr[i]);
-        mover->next=temp;
-        mover=mover->next;
-    }
-    return head;
-}
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int>arr;
-        for(int i=0;i<lists.size();i++){
-            ListNode*temp=lists[i];
-            while(temp){
-                arr.push_back(temp->val);
-                temp=temp->next;
-            }
-
+//----------------------Priority Queue--------------------------------------------
+ListNode* mergeKLists(vector<ListNode*>& lists) {
+    priority_queue<pair<int,ListNode*>,vector<pair<int,ListNode*>>,
+    greater<pair<int,ListNode*>>>pq;
+    for(int i=0;i<lists.size();i++){
+        if(lists[i]){
+            pq.push({lists[i]->val,lists[i]});
         }
-        sort(arr.begin(),arr.end());
-        ListNode*head=convertarrtoll(arr);
-        return head;
+    }
+    ListNode*dummyNode=new ListNode(-1);
+    ListNode*temp=dummyNode;
+    while(!pq.empty()){
+        auto it=pq.top();
+        pq.pop();
+        if(it.second->next) {
+            pq.push({it.second->next->val,it.second->next});
+        }
+        temp->next=it.second;
+        temp=temp->next;
+    }
+    return dummyNode->next;
     }
 };
