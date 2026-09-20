@@ -100,6 +100,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
@@ -118,6 +119,7 @@
 | [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0830-positions-of-large-groups](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0830-positions-of-large-groups) |
+| [3498-reverse-degree-of-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Depth-First Search
 |  |
