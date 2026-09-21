@@ -173,6 +173,7 @@
 | [0328-odd-even-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -223,6 +225,7 @@
 | [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -264,4 +267,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
