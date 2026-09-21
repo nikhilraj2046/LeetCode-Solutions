@@ -57,6 +57,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
@@ -90,6 +91,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
@@ -121,6 +123,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0830-positions-of-large-groups](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0830-positions-of-large-groups) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -217,6 +220,7 @@
 | [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Design
 |  |
