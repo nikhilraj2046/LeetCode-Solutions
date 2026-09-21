@@ -162,6 +162,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
