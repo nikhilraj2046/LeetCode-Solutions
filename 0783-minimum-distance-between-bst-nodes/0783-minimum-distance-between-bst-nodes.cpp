@@ -17,7 +17,6 @@ void inorder(TreeNode*root,vector<int>&ans){
     ans.push_back(root->val);
     inorder(root->right,ans);
 }
-// int solve(TreeNode*root,)
     int minDiffInBST(TreeNode* root) {
         vector<int>ans;
         inorder(root,ans);
