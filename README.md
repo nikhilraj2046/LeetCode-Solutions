@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -29,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -42,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -49,11 +52,13 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Tree
 |  |
@@ -261,6 +266,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
