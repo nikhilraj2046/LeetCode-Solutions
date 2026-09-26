@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0735-asteroid-collision](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -279,6 +280,7 @@
 | [0496-next-greater-element-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -331,6 +333,7 @@
 | [0042-trapping-rain-water](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
