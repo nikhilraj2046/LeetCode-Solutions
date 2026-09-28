@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -190,6 +191,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -269,6 +271,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
