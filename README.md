@@ -150,6 +150,7 @@
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -227,6 +228,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
