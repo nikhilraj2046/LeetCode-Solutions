@@ -28,6 +28,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4062-transform-array-using-pair-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -377,4 +378,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
