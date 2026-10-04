@@ -168,6 +168,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0830-positions-of-large-groups](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0830-positions-of-large-groups) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -265,6 +266,7 @@
 | [0085-maximal-rectangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
@@ -303,6 +305,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0496-next-greater-element-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
@@ -331,6 +334,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
@@ -388,4 +392,8 @@
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
