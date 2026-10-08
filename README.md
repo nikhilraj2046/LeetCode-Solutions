@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -54,6 +55,7 @@
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting
 |  |
@@ -404,4 +406,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
