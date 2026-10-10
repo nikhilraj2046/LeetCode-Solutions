@@ -23,6 +23,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -58,6 +59,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting
 |  |
@@ -222,6 +224,7 @@
 | [0897-increasing-order-search-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -368,6 +371,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -413,6 +417,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
