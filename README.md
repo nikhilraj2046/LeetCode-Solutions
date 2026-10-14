@@ -48,6 +48,7 @@
 | [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -186,6 +188,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0830-positions-of-large-groups](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0830-positions-of-large-groups) |
 | [0856-score-of-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -352,6 +355,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
