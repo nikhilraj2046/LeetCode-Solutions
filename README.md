@@ -28,6 +28,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -59,6 +60,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -457,4 +459,12 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
