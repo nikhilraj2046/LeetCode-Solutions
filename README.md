@@ -40,6 +40,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4062-transform-array-using-pair-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
@@ -85,6 +86,7 @@
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -403,6 +406,7 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
