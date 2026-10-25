@@ -25,6 +25,7 @@
 | [0739-daily-temperatures](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -153,6 +154,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0965-univalued-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
@@ -459,6 +462,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -473,6 +477,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Brainteaser
 |  |
 | ------- |
