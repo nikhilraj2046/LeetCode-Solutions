@@ -25,6 +25,7 @@
 | [0735-asteroid-collision](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0896-monotonic-array) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -156,6 +157,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
@@ -480,6 +482,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Brainteaser
 |  |
