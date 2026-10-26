@@ -69,6 +69,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -87,6 +88,7 @@
 | [0389-find-the-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -135,6 +137,7 @@
 | [0938-range-sum-of-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -157,6 +160,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -190,6 +194,7 @@
 | [0938-range-sum-of-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -270,6 +275,7 @@
 | [0938-range-sum-of-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
