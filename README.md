@@ -30,6 +30,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -91,6 +92,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
