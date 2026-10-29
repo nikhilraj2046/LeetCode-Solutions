@@ -224,6 +224,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2485-find-the-pivot-integer](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -331,6 +332,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
