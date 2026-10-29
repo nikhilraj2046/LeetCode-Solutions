@@ -31,6 +31,7 @@
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
