@@ -73,6 +73,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -223,6 +224,7 @@
 | [0371-sum-of-two-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2409-count-days-spent-together](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -546,4 +548,5 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
