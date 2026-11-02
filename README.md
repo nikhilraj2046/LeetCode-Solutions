@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -403,6 +405,7 @@
 | [0042-trapping-rain-water](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
