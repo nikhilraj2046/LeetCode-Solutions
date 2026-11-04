@@ -224,6 +224,7 @@
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
