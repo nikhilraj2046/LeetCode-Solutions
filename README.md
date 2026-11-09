@@ -223,6 +223,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -533,6 +534,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -557,4 +559,8 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
