@@ -32,6 +32,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -233,6 +234,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -343,6 +345,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -438,6 +441,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -572,4 +576,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
