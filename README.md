@@ -224,6 +224,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -371,6 +372,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -566,4 +568,8 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0089-gray-code) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
