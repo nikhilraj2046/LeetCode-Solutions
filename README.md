@@ -49,6 +49,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -526,6 +527,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [4062-transform-array-using-pair-operations](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 ## Greedy
 |  |
@@ -547,6 +549,7 @@
 | [0371-sum-of-two-integers](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nikhilraj2046/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
